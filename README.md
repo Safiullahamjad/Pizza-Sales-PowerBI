@@ -42,5 +42,11 @@ The complete Power BI project file is available here:
 **Pizza_Sales_Analysis.pbix**
 
 ## 👨‍💻 Author
+## 📊 Dashboard Preview
 
+### Page 1
+![Dashboard Page 1](d1.png)
+
+### Page 2
+![Dashboard Page 2](d2.png)
 Safiullah Amjad
